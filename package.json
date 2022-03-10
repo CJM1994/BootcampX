@@ -1,0 +1,20 @@
+{
+  "name": "BootcampX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJM1994/BootcampX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJM1994/BootcampX/issues"
+  },
+  "homepage": "https://github.com/CJM1994/BootcampX#readme"
+}
